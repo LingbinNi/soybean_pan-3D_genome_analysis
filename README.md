@@ -1,10 +1,12 @@
-# soybean_pan-3D_genome_analysis
+# soybean pan-3D genome analysis
+
+## Summary
 
 This repository contains scripts used in the analysis of soybean pan-3D genome. Scripts are provided as follows. However, there may be an effort in the future to translate this code into a program for streamlined analysis depending on demand.
 
 Users should be aware that the majority of this code was designed for our specific use case, and as such, has been written to analyze the data sets detailed in the manuscript. Thus, all users should carefully look over the code to better understand if the default parameters make sense for your experiment/species/conditions/etc. You're more than welcome to post an issue or e-mail us if you have any questions about any part of the scripts.
 
-## Subfolder Information
+## Subfolder information
 
 * **hiCProcessing:** preprocess the Hi-C data including reads alignments, mapping statistics, and reproducibility scores, etc.
 
