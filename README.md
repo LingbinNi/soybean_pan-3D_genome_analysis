@@ -12,23 +12,23 @@ Users should be aware that the majority of this code was designed for our specif
 
 * **compartmentAnalysis:** calculate A/B compartment eigenvectors and I regions.
 
-* **compartmentPanAnalysis:** Pan-3D genome analysis of A/B compartments.
+* **compartmentPanAnalysis:** pan-3D genome analysis of A/B compartments.
 
 * **insulationBoundaryAnalysis:** call TADs using insulation score algorithm, arrowhead algorithm and calculate directionality index.
 
-* **insulationBoundaryComparativeAnalysis:** Comparative 3D genome analysis of insulation boundaries.
+* **insulationBoundaryComparativeAnalysis:** comparative 3D genome analysis of insulation boundaries.
 
-* **pan3Dgenome_insulationBoundary:** Pan-3D genome analysis of insulation boundaries.
+* **pan3Dgenome_insulationBoundary:** pan-3D genome analysis of insulation boundaries.
 
 * **enrichmentAnalysis:** GO enrichment analysis of insulation boundaries of pan-3D genome.
 
-* **structuralVariationCompartment:** Analyze structural variations of A/B compartments.
+* **structuralVariationCompartment:** analyze structural variations of A/B compartments.
 
-* **exampleCompartment:** Example analysis of structural variations and A/B compartments.
+* **exampleCompartment:** example analysis of structural variations and A/B compartments.
 
-* **structuralVariationInsulationBoundary:** Analyze structural variations of insulation boundaries.
+* **structuralVariationInsulationBoundary:** analyze structural variations of insulation boundaries.
 
-* **exampleInsulationBoundary:** Example analysis of structural variations and insulation boundaries.
+* **exampleInsulationBoundary:** example analysis of structural variations and insulation boundaries.
 
 * **expressionAnalysis:** process RNA-seq data.
 
