@@ -18,7 +18,7 @@ Users should be aware that the majority of this code was designed for our specif
 
 * **insulationBoundaryComparativeAnalysis:** comparative 3D genome analysis of insulation boundaries.
 
-* **pan3Dgenome_insulationBoundary:** pan-3D genome analysis of insulation boundaries.
+* **insulationBoundaryPanAnalysis:** pan-3D genome analysis of insulation boundaries.
 
 * **enrichmentAnalysis:** GO enrichment analysis of insulation boundaries of pan-3D genome.
 
