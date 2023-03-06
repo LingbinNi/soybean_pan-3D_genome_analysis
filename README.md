@@ -52,4 +52,4 @@ https://figshare.com/articles/dataset/UCSC_chain_files_of_soybean_genomes/200273
 
 ## References
 
-NA
+Ni L, Liu Y, Ma X, Liu T, Yang X, Wang Z, Liang Q, Liu S, Zhang M, Wang Z, et al. (2023). Pan-3D genome analysis reveals structural and functional differentiation of soybean genomes. Genome Biol 24, 12.
